@@ -27,8 +27,11 @@ and problem-solving skills essential for modern automation and control systems.
 - 50% Quizzes/ Seatworks
 
 ### Intended Learning Outcomes (ILO):
-***ILO1	***		
+**ILO1	Identify the fundamental concepts of electrical motors, power circuits, and motor control devices, including safety considerations and electromechanical drawings.  (SO1)**
 
-***ILO2	***		
+**ILO2	Apply electrical and mechanical power transmission principles to analyze and develop standard electromechanical drawings for motor control and power circuits. (SO1 and SO3)**
 
-***ILO3	***
+**ILO3	Design and evaluate motor control circuits and mechanical power transmission systems, incorporating safety, efficiency, and sustainability considerations. (SO3)**
+
+### Assessment Method:
+![image](https://github.com/user-attachments/assets/5d1d6eeb-94da-4b35-ab2d-d66300f44231)
