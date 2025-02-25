@@ -35,3 +35,22 @@ and problem-solving skills essential for modern automation and control systems.
 
 ### Assessment Method:
 ![image](https://github.com/user-attachments/assets/5d1d6eeb-94da-4b35-ab2d-d66300f44231)
+
+### Main Text Book: [Pertuzella, F. D. (2010). Electric Motors and Control Systems (1st ed.). New York: McGraw-Hill](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/tree/main/IEMSA_2025/Textbook)
+
+![image](https://github.com/user-attachments/assets/b226283b-d43f-43fb-be09-941978efcf1d)
+
+### Unit 1: [Syllabus](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/tree/main/IEMSA_2025/Syllabus) Orientation & Introduction (Week 1)
+
+### Unit 2: Electrical Motors (Week 2, 3, 4)
+Topics:
+1. [Electrical and Machine Safety](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/blob/main/IEMSA_2025/Lectures/Chapter%201%20ELECTRICAL%20SAFETY.pptx)
+2. [Types of motors](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/blob/main/IEMSA_2025/Lectures/Chapter%202%20Types%20of%20Motor.pptx)
+3. [Power Circuits](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/blob/main/IEMSA_2025/Lectures/Chapter%204%20Motor%20Control%20Circuits%20-%20Intro%20to%20Power%20Circuits.pdf)
+4. [Symbols of Motor Control Components](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/blob/main/IEMSA_2025/Lectures/Chapter%203%20Motor%20Control%20Components.pptx)
+
+### Unit 3: Motor Control Circuit Design  (Week 5, 6, 7, 8)
+1. [NEMA and IEC standards](https://github.com/MikkoDT/Intro_to_Electromechanical_System_and_Automation/blob/main/IEMSA_2025/Lectures/comparison_of_iec_and_nema_schematic_diagrams.pdf)
+2. [4 - Relay Functions]()
+3. [Switches and sensors]()
+4. [Forward and reverse control]()
